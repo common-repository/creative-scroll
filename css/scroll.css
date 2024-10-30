@@ -1,0 +1,19 @@
+a.creative-scroll {
+	background-color: #222;
+	padding: 20px;
+	color: #fff;
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+	cursor: pointer;
+	font-size: 18px;
+	display: none;
+}
+
+a.creative-scroll:hover {
+	background-color: #fed130;
+	color: #2c3e50;
+	transition: 0.5s;
+	border: 1px solid #222;
+	transform: translateY(5px);
+}
